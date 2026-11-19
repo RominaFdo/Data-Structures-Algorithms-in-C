@@ -1,0 +1,23 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+a.out
+
+# CMake / CLion build output
+cmake-build-*/
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# IDE settings
+.idea/
+.vscode/
+
+# Code Runner temp files
+tempCodeRunnerFile.*
+
+# OS files
+.DS_Store
+Thumbs.db
